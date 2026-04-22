@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>Love Letter From The Sea To The Shore</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Delaney Bailey</div>
 
 <div class="player">
 <div class="topRow">
@@ -50,14 +50,14 @@ html:`
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 </div>
 </div>
@@ -109,16 +109,17 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-TRANSMISSION START
+You have blessed the earth,
+For twenty-four years
+With kind and love on yourself.
+Why can’t you see all,
+The seed you’ve planted
+Why can’t you see,
+I watered them.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+I turned everything into love for you.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
 
-But like late night radio waves that stay playing even when the world sleeps.
-
-END SIGNAL
 <span class="signal">END SIGNAL</span>
 
 </div>
